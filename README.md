@@ -48,6 +48,7 @@ This is a simple Android application designed to manage a pet shelter. The app a
 ## Usage
 
 - On the main catalog page, you can see a list of pets. You can click on any pet to edit its details.
+- Their are feature given to insert dummy pet data into the database which will reflect instantly and you can clear all data from the database.
 - Use the floating action button to add a new pet.
 - In the pet editor, enter details such as name, breed, weight, and gender.
 - You can save or delete pet entries from the editor screen.
