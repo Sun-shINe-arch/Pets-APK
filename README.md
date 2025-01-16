@@ -55,6 +55,7 @@ This is a simple Android application designed to manage a pet shelter. The app a
 ## Contributing
 
 Feel free to fork this repository and submit pull requests if you have improvements or bug fixes to contribute.
+
 contact : mk7581505@gmail.com
 
 ## License
