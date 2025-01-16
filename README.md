@@ -1,5 +1,4 @@
-# ![ic_launcher](https://github.com/user-attachments/assets/ae4c74f2-5916-4bf4-b8ab-2c81a317c98b)
-## Pet Shelter App
+# ![ic_launcher](https://github.com/user-attachments/assets/ae4c74f2-5916-4bf4-b8ab-2c81a317c98b)   Pet Shelter App
 
 This is a simple Android application designed to manage a pet shelter. The app allows users to add, edit, and delete pet records in a SQLite database. Users can also view a list of pets and their details, including name, breed, gender, and weight.
 
