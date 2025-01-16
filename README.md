@@ -11,10 +11,6 @@ This is a simple Android application designed to manage a pet shelter. The app a
 - **Gender Selection**: Choose a pet's gender from a spinner (Male, Female, Unknown).
 - **SQLite Database**: The app uses SQLite for storing pet data locally.
 
-## Screenshots
-
-Include any relevant screenshots here to showcase the app's interface and functionality.
-
 ## Technologies Used
 
 - **Android**: Java for app development.
